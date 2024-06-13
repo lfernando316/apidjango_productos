@@ -26,7 +26,7 @@
 
 ### Editar un producto 
 - **Método:** `PUT`
-- **URL:** `http://localhost:8000/productos/crear_producto/](http://localhost:8000/productos/editar_producto/{id}/`
+- **URL:** `http://localhost:8000/productos/editar_producto/{id}/`
 - **Descripción:** Edita el producto.
 - **Datos de la solicitud:**  pasar el id del producto a editar
   ```json
@@ -35,6 +35,6 @@
   }
 ### Eliminar un producto 
 - **Método:** `DELETE`
-- **URL:** `http://localhost:8000/productos/crear_producto/](http://localhost:8000/productos/editar_producto/{id}/)](http://localhost:8000/productos/eliminar_producto/{id}/`
+- **URL:** `http://localhost:8000/productos/eliminar_producto/{id}/`
 - **Descripción:** Elimina el producto.
 - **Datos de la solicitud: pasar el id del producto a eliminar
